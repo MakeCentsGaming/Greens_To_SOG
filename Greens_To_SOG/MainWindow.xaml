@@ -9,8 +9,8 @@
     <Grid Background="#FFACACAC">
         <Grid.RowDefinitions>
             <RowDefinition Height="148*"/>
-            <RowDefinition Height="143*"/>
-            <RowDefinition Height="176*"/>
+            <RowDefinition Height="141*"/>
+            <RowDefinition Height="178*"/>
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="284*"/>
@@ -47,8 +47,8 @@
                 <DropShadowEffect/>
             </Image.Effect>
         </Image>
-        <TextBox BorderThickness="2" Background="Black" Foreground="Gray" x:Name="consolelog" VerticalScrollBarVisibility="Auto" Text="{Binding consoleOutput, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Grid.ColumnSpan="4" Margin="10,15.5,9.467,10" TextWrapping="NoWrap" Grid.Row="2" TextChanged="TextBox_TextChanged" BorderBrush="#FF0078D7"/>
-        <Label Content="Console Output" HorizontalAlignment="Left" Margin="10,137.703,0,0" Grid.Row="1" VerticalAlignment="Top" Grid.RowSpan="2" Height="25.96" Width="93.657"/>
+        <TextBox BorderThickness="2" Background="Black" Foreground="Gray" x:Name="consolelog" VerticalScrollBarVisibility="Auto" Text="{Binding consoleOutput, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Grid.ColumnSpan="4" Margin="10,23.509,9.467,13" TextWrapping="NoWrap" Grid.Row="2" TextChanged="TextBox_TextChanged" BorderBrush="#FF0078D7"/>
+        <Label Content="Console Output" HorizontalAlignment="Left" Margin="10,0.549,0,0" Grid.Row="2" VerticalAlignment="Top" Height="25.96" Width="93.657"/>
 
         <Label Content="List of Image Paths" HorizontalAlignment="Left" Margin="0.25,1.05,0,0" VerticalAlignment="Top" Grid.Row="1" Grid.Column="1" Height="25.96" Width="109.71"/>
         <Button IsEnabled="{Binding ControlsBusy}" Command="{Binding CmdRunSOG}" Content="Run" Grid.Column="3" Margin="0,0,34.5,7" Grid.Row="2" HorizontalAlignment="Right" Width="75" Height="19.96" VerticalAlignment="Bottom">
