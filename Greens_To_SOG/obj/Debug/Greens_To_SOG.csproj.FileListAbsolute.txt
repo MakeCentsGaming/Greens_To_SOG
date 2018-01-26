@@ -1,0 +1,16 @@
+C:\Users\davidg\source\repos\Greens_To_SOG\Greens_To_SOG\bin\Debug\Greens_To_SOG.exe.config
+C:\Users\davidg\source\repos\Greens_To_SOG\Greens_To_SOG\bin\Debug\Greens_To_SOG.exe
+C:\Users\davidg\source\repos\Greens_To_SOG\Greens_To_SOG\bin\Debug\Greens_To_SOG.pdb
+C:\Users\davidg\source\repos\Greens_To_SOG\Greens_To_SOG\obj\Debug\Greens_To_SOG.csprojResolveAssemblyReference.cache
+C:\Users\davidg\source\repos\Greens_To_SOG\Greens_To_SOG\obj\Debug\MainWindow.g.cs
+C:\Users\davidg\source\repos\Greens_To_SOG\Greens_To_SOG\obj\Debug\App.g.cs
+C:\Users\davidg\source\repos\Greens_To_SOG\Greens_To_SOG\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\davidg\source\repos\Greens_To_SOG\Greens_To_SOG\obj\Debug\Greens_To_SOG_MarkupCompile.cache
+C:\Users\davidg\source\repos\Greens_To_SOG\Greens_To_SOG\obj\Debug\Greens_To_SOG_MarkupCompile.lref
+C:\Users\davidg\source\repos\Greens_To_SOG\Greens_To_SOG\obj\Debug\MainWindow.baml
+C:\Users\davidg\source\repos\Greens_To_SOG\Greens_To_SOG\obj\Debug\Greens_To_SOG.g.resources
+C:\Users\davidg\source\repos\Greens_To_SOG\Greens_To_SOG\obj\Debug\Greens_To_SOG.Properties.Resources.resources
+C:\Users\davidg\source\repos\Greens_To_SOG\Greens_To_SOG\obj\Debug\Greens_To_SOG.csproj.GenerateResource.Cache
+C:\Users\davidg\source\repos\Greens_To_SOG\Greens_To_SOG\obj\Debug\Greens_To_SOG.csproj.CoreCompileInputs.cache
+C:\Users\davidg\source\repos\Greens_To_SOG\Greens_To_SOG\obj\Debug\Greens_To_SOG.exe
+C:\Users\davidg\source\repos\Greens_To_SOG\Greens_To_SOG\obj\Debug\Greens_To_SOG.pdb
