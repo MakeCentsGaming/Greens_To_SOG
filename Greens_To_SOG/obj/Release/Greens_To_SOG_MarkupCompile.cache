@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\MakeCents\Source\GitHub\Greens_To_SOG\Greens_To_SOG\obj\Debug\
+C:\Users\MakeCents\Source\GitHub\Greens_To_SOG\Greens_To_SOG\obj\Release\
 Greens_To_SOG
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\MakeCents\Source\GitHub\Greens_To_SOG\Greens_To_SOG\App.xaml
 11151548125
 
-18-941933074
+14-1153189451
 14434534373
 MainWindow.xaml;
 
-True
+False
 

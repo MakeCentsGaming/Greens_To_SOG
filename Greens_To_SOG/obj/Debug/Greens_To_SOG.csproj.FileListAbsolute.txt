@@ -14,3 +14,6 @@ C:\Users\davidg\source\repos\Greens_To_SOG\Greens_To_SOG\obj\Debug\Greens_To_SOG
 C:\Users\davidg\source\repos\Greens_To_SOG\Greens_To_SOG\obj\Debug\Greens_To_SOG.csproj.CoreCompileInputs.cache
 C:\Users\davidg\source\repos\Greens_To_SOG\Greens_To_SOG\obj\Debug\Greens_To_SOG.exe
 C:\Users\davidg\source\repos\Greens_To_SOG\Greens_To_SOG\obj\Debug\Greens_To_SOG.pdb
+C:\Users\MakeCents\Source\GitHub\Greens_To_SOG\Greens_To_SOG\bin\Debug\Greens_To_SOG.exe.config
+C:\Users\MakeCents\Source\GitHub\Greens_To_SOG\Greens_To_SOG\obj\Debug\Greens_To_SOG.exe
+C:\Users\MakeCents\Source\GitHub\Greens_To_SOG\Greens_To_SOG\obj\Debug\Greens_To_SOG.pdb

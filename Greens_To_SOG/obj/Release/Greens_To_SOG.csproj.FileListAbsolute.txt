@@ -1,0 +1,15 @@
+C:\Users\MakeCents\Source\GitHub\Greens_To_SOG\Greens_To_SOG\bin\Release\Greens_To_SOG.exe.config
+C:\Users\MakeCents\Source\GitHub\Greens_To_SOG\Greens_To_SOG\bin\Release\Greens_To_SOG.exe
+C:\Users\MakeCents\Source\GitHub\Greens_To_SOG\Greens_To_SOG\bin\Release\Greens_To_SOG.pdb
+C:\Users\MakeCents\Source\GitHub\Greens_To_SOG\Greens_To_SOG\obj\Release\Greens_To_SOG.csprojResolveAssemblyReference.cache
+C:\Users\MakeCents\Source\GitHub\Greens_To_SOG\Greens_To_SOG\obj\Release\MainWindow.g.cs
+C:\Users\MakeCents\Source\GitHub\Greens_To_SOG\Greens_To_SOG\obj\Release\App.g.cs
+C:\Users\MakeCents\Source\GitHub\Greens_To_SOG\Greens_To_SOG\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\MakeCents\Source\GitHub\Greens_To_SOG\Greens_To_SOG\obj\Release\Greens_To_SOG_MarkupCompile.cache
+C:\Users\MakeCents\Source\GitHub\Greens_To_SOG\Greens_To_SOG\obj\Release\Greens_To_SOG_MarkupCompile.lref
+C:\Users\MakeCents\Source\GitHub\Greens_To_SOG\Greens_To_SOG\obj\Release\MainWindow.baml
+C:\Users\MakeCents\Source\GitHub\Greens_To_SOG\Greens_To_SOG\obj\Release\Greens_To_SOG.g.resources
+C:\Users\MakeCents\Source\GitHub\Greens_To_SOG\Greens_To_SOG\obj\Release\Greens_To_SOG.Properties.Resources.resources
+C:\Users\MakeCents\Source\GitHub\Greens_To_SOG\Greens_To_SOG\obj\Release\Greens_To_SOG.csproj.GenerateResource.Cache
+C:\Users\MakeCents\Source\GitHub\Greens_To_SOG\Greens_To_SOG\obj\Release\Greens_To_SOG.exe
+C:\Users\MakeCents\Source\GitHub\Greens_To_SOG\Greens_To_SOG\obj\Release\Greens_To_SOG.pdb
